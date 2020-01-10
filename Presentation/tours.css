@@ -1,0 +1,32 @@
+h1{
+	text-align: center;
+}
+img{
+ max-width: 100%;
+  height: auto;
+     display: block;
+    margin-left: auto;
+    margin-right: auto ;
+}
+
+body{
+	background-image: url("../presentation/Artboard 2.png");
+	color: white;
+		background-repeat: no-repeat;
+	
+}
+
+
+h4{
+	text-align: center;
+}
+.Michel
+{
+	height: 195px;
+	width: 215px;
+}
+.tack
+{
+	height: 200px;
+	width: 895px;
+}

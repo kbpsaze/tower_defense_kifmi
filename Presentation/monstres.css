@@ -1,0 +1,36 @@
+h1{
+	text-align: center;
+}
+img{
+  padding: 5px;
+  width: 150px;
+      display: block;
+    margin-left: auto;
+    margin-right: auto ;
+}
+
+
+body{
+	background-image: url("../presentation/Artboard 2.png");
+	color: white;
+	background-repeat: no-repeat;
+
+}
+h4{
+	text-align: center;
+}
+.Billkiss
+{
+	height: 150px;
+	width: 200px;
+}
+.medusa
+{
+	height: 125px;
+	width: 150px;
+}
+.dark
+{
+	height: 130px;
+	width: 180px;
+}
